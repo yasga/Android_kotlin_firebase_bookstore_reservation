@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BookHub2</string>
+    <string name="accueil">Accueil</string>
+    <string name="favourites">Réservations</string>
+    <string name="profil">Profil</string>
+    <string name="Apropos">A propos</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="ouvrir">Ouvrir</string>
+    <string name="fermer">fermer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favorites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="hello_blank_fragment">Hello </string>
+    <string name="about_the_book">A propos du livre</string>
+    <string name="add_to_favourites">Réserver ce livre</string>
+    <string name="hello_world">Hello World</string>
+    <string name="android_inc">Android Inc.</string>
+    <string name="rs_499">Rs 499</string>
+    <string name="action_sort">Sort</string>
+    <string name="apropostexte">Il s\'agit d\'une application qui permet de gérer la bibliothèque de
+        ENSA Safi, et qui donne la possibilité de commander des livres pour les deux types d\'utilisateurs
+    profs et étudiants , cette application à été faite avec kotlin et parmis les outils
+    qui ont étaient utilisés on trouve : recyclerview , fragements , searchview , menu...,
+    ainsi que cette application utilise firebase comme base de données.</string>
+
+    <string name="commandes">Commandes</string>
+</resources>

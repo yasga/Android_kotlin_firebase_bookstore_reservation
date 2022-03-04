@@ -1,0 +1,82 @@
+{
+  "Réservations" : {
+    "mIeItYBQcocfm6lUswawpCzXogo1" : {
+      "-MvHAzJ3RAJEe-6QRwgN" : {
+        "livreId" : "-MvHAzJ3RAJEe-6QRwgN",
+        "nomLivreResrv" : "Node.js, Express.js et MongoDB"
+      },
+      "-MvKAB72Pl7adSoipFY0" : {
+        "livreId" : "-MvKAB72Pl7adSoipFY0",
+        "nomLivreResrv" : "Cisco"
+      },
+      "-MvKAOTiU6ceQG5pZg2f" : {
+        "livreId" : "-MvKAOTiU6ceQG5pZg2f",
+        "nomLivreResrv" : "Node.js, Express.js et MongoDB"
+      },
+      "-MvKAOqBWOl5kDiIW-Yw" : {
+        "livreId" : "-MvKAOqBWOl5kDiIW-Yw",
+        "nomLivreResrv" : "Cisco"
+      },
+      "-MvKJ1yJ3dKIVTcf_QrD" : {
+        "livreId" : "-MvKJ1yJ3dKIVTcf_QrD",
+        "nomLivreResrv" : "Node.js, Express.js et MongoDB"
+      },
+      "-MvKQIMBxuBzOMMDorjm" : {
+        "livreId" : "-MvKQIMBxuBzOMMDorjm",
+        "nomLivreResrv" : "Node.js, Express.js et MongoDB"
+      },
+      "-MvKQUZLNIK_DPD4ELSw" : {
+        "livreId" : "-MvKQUZLNIK_DPD4ELSw",
+        "nomLivreResrv" : "Cisco"
+      },
+      "-MvKXl0vwP_KABBcgYLW" : {
+        "livreId" : "-MvKXl0vwP_KABBcgYLW",
+        "nomLivreResrv" : "Node.js, Express.js et MongoDB"
+      }
+    }
+  },
+  "Livres" : {
+    "livre1" : {
+      "dateParution" : "06/01/2022",
+      "details" : "Cette nouvelle édition entièrement revue afin de correspondre aux dernières mises à jour propose une présentation pas à pas pour mettre en place une application web avec Node.js, Express.js et MongoDB. Plus que de simples phénomènes de mode, ces outils sont désormais incontournables pour tous les développeurs web. Un livre extrêmement pratique où les aficionados d'Éric Sarrion retrouveront sa minutie dans la description de chaque étape et chausse-trappe.  À qui s'adresse ce livre ? Aux étudiants, développeurs et chefs de projet À tous les autodidactes férus de programmation qui veulent découvrir Node.js",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/commandeslivres-df9af.appspot.com/o/9782416004810_internet_b200x200.jpg?alt=media&token=01a47a6e-2231-4364-87df-5a5d9097d17b",
+      "nomAuteur" : "Eric Sarrion",
+      "nomLivre" : "Node.js, Express.js et MongoDB"
+    },
+    "livre2" : {
+      "dateParution" : "08/12/2021",
+      "details" : "Ce livre s'adresse autant aux débutants désireux de comprendre la configuration des routeurs et des commutateurs dans un réseau avec Cisco, qu'aux informaticiens plus expérimentés souhaitant renforcer et mettre à jour leurs connaissances. Il est organisé en deux parties, correspondant à deux livres existants : le premier issu de la collection de livres de référence Ressources Informatiques, le second issu de la collection de livres TP Informatiques. Ainsi, la première partie couvre les notions fondamentales d'un point de vue théorique et la seconde partie propose au lecteur de nombreux exercices ainsi qu'un ensemble de Travaux Pratiques complets avec leurs corrigés détaillés.",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/commandeslivres-df9af.appspot.com/o/9782409033315_internet_b200x200.jpg?alt=media&token=4d1a87fe-bcce-4979-b0ee-4430bf7f6f53",
+      "nomAuteur" : "Laurent Schalkwijk",
+      "nomLivre" : "Cisco"
+    },
+    "livre3" : {
+      "dateParution" : "24/06/2021",
+      "details" : "4 étapes pour bien référencer son site Vous souhaitez donner à votre site une visibilité maximale sur Google, mais vous ne connaissez rien au développement web ?  Ce livre est fait pour vous : avec des mots simples et des pas à pas détaillés, il vous fournira une méthode infaillible pour bien référencer votre site. En 4 grandes étapes (création du site et des pages, choix du contenu textuel, mise en oeuvre des liens et suivi du référencement), vous serez initié au référencement avec la sixième édition de ce guide pratique, mise à jour et enrichie.  À qui s'adresse ce livre ? Aux débutants en référencement sans connaissances en développement web.",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/commandeslivres-df9af.appspot.com/o/9782416003028_internet_w290.jpg?alt=media&token=f62a8866-af21-46ed-8a77-854d64032286",
+      "nomAuteur" : "Olivier Andrieu",
+      "nomLivre" : "Référencement Google, mode d'emploi"
+    },
+    "livre4" : {
+      "dateParution" : "20/07/2015",
+      "details" : "Qu'allez-vous apprendre ? Vous aimeriez apprendre à programmer en C++ et vous cherchez un cours accessible aux débutants ? Cet ouvrage est fait pour vous ! Conçu pour les débutants, il vous permettra de découvrir pas à pas le langage C++, la programmation orientée objet, le développement de fenêtres avec Qt et bien d'autres choses ! Qu'est-ce que la programmation ? Quel langage choisir ? Qu'est-ce qui distingue le C++ des autres langages ? Installation d'un environnement de développement et compilation de vos premiers programmes Manipulation des variables, des fonctions, des pointeurs, des références... Découverte de la programmation orientée objet : les classes, l'héritage, le polymorphisme... Construction de vos interfaces graphiques (fenêtres) avec la bibliothèque Qt Création de votre propre navigateur web au cours d'un des TP de cet ouvrage ! Encore plus loin avec la STL, les exceptions, les templates...",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/commandeslivres-df9af.appspot.com/o/9791090085916_internet_w290.jpg?alt=media&token=7d7d4c19-2e8e-45c0-a683-f82fea72195f",
+      "nomAuteur" : "Mathieu Nebra",
+      "nomLivre" : "Programmez avec le langage C++"
+    },
+    "livre5" : {
+      "dateParution" : "02/12/2021",
+      "details" : "Accessibilité, référencement, écoconception, performance, navigation, mobile, données personnelles, vidéo, sécurité...  Les règles d'assurance qualité web réunies dans l'ouvrage de référence des professionnels du Web !  Les fondamentaux du web enfin réunis dans un livre ! Assurance qualité web est le guide pratique des professionnels du Web. Il présente l'assurance qualité web ainsi que son rôle dans l'amélioration de l'expérience utilisateur (UX) et dans la conduite des programmes de mise en conformité (accessibilité, sécurité, données personnelles, écoconception). 240 règles sont détaillées dans des fiches structurées et illustrées qui facilitent leur compréhension et leur application. Un glossaire multidisciplinaire vient compléter les contenus. L'ensemble de ces contenus de référence font de cet ouvrage un outil pratique indispensable au quotidien.",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/commandeslivres-df9af.appspot.com/o/9782416000096_internet_w290.jpg?alt=media&token=b1a35639-7b03-40f6-9ccf-8b9c6b235d14",
+      "nomAuteur" : "Elie Sloïm, Laurent Denis",
+      "nomLivre" : "Assurance qualité Web"
+    },
+    "livre6" : {
+      "dateParution" : "06/01/2022",
+      "details" : "Ils représentent un énorme potentiel pour attirer de nouveaux clients, augmenter la notoriété ou trouver des partenaires.  Faute de moyens pour faire appel à un Community Manager, la plupart des entreprises, associations ou particuliers les gèrent par eux-mêmes. Mais parfois, les résultats sont décevants...  Comment optimiser votre page Facebook ? Quel contenu publier sur LinkedIn ? Pourquoi et comment vous lancer facilement sur TikTok ? Comment vous libérer des contraintes Twitter ? De quelle façon réutiliser votre contenu sur Pinterest ? Comment faire grandir votre communauté Instagram ? L'auteur vous invite à découvrir les techniques utilisées par les professionnels de la communication digitale, toutes applicables quels que soient votre niveau et vos objectifs.  Opérationnel et actualisé, illustré d'exemples concrets, ce grand livre vous présente toutes les techniques et astuces pour mieux communiquer sur les réseaux sociaux et dynamiser votre activité !",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/commandeslivres-df9af.appspot.com/o/9791039700788_internet_w290.jpg?alt=media&token=5525aa74-92c5-421d-93b4-6f960a292a31",
+      "nomAuteur" : "Samuel Bielka",
+      "nomLivre" : "Le grand livre des réseaux sociaux"
+    }
+  }
+}

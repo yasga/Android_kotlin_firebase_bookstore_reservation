@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfilFragment"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/txtProfileFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:text="@string/profil"
+        android:textColor="#283593"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imgProfilePic"
+        android:layout_width="140dp"
+        android:layout_height="155dp"
+        android:layout_below="@+id/txtProfileFragment"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/library__5_" />
+
+    <TextView
+        android:id="@+id/txtProfileName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgProfilePic"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="yassine gouma"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/txtemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtProfileName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Email :"
+        android:textColor="#37474f"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/txtid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtemail"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Id : "
+        android:textColor="#37474f"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/txtSocialAccountInstagram"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtid"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Role : Etudiant"
+        android:textColor="#37474f"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/txtSocialAccountLinkedin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Filière : génie informatique"
+        android:layout_below="@+id/txtSocialAccountInstagram"
+        android:textSize="20dp"
+        android:textColor="#37474f"
+        android:textStyle="normal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:id="@+id/txtSocialAccountGitHub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtSocialAccountLinkedin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Niveau : 4 éme année (2éme année cycle)"
+        android:textColor="#37474f"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/txtSocialAccountHackerRank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtSocialAccountGitHub"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Année universitaire : 2021 / 2022 "
+        android:textColor="#37474f"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+
+</RelativeLayout>

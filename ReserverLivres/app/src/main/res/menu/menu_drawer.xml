@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/accueil"
+        android:title="@string/accueil"
+        android:icon="@drawable/ic_dashboard"/>
+
+        <item
+            android:id="@+id/reservations"
+            android:title="@string/favourites"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="profile"
+        android:icon="@drawable/ic_profile"/>
+
+    <item
+        android:id="@+id/Apropos"
+        android:title="@string/Apropos"
+        android:icon="@drawable/ic_about_app"/>
+
+        <item
+            android:id="@+id/deconnexion"
+            android:title="Se Déconnecter "
+            android:icon="@drawable/ic_baseline_keyboard_return_24"/>
+
+    </group>
+</menu>
